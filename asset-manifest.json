@@ -1,23 +1,23 @@
 {
   "files": {
     "main.css": "/static/css/main.e598847d.css",
-    "main.js": "/static/js/main.5f4dfed6.js",
+    "main.js": "/static/js/main.db2c8a56.js",
     "HomeView.js": "/static/js/HomeView.b4b0f4ed.chunk.js",
     "RegisterView.js": "/static/js/RegisterView.6bacf03d.chunk.js",
     "LoginView.js": "/static/js/LoginView.5401642b.chunk.js",
-    "ContactsView.js": "/static/js/ContactsView.8f69c79b.chunk.js",
+    "ContactsView.js": "/static/js/ContactsView.15983b5c.chunk.js",
     "static/js/331.cf2adc23.chunk.js": "/static/js/331.cf2adc23.chunk.js",
     "index.html": "/index.html",
     "main.e598847d.css.map": "/static/css/main.e598847d.css.map",
-    "main.5f4dfed6.js.map": "/static/js/main.5f4dfed6.js.map",
+    "main.db2c8a56.js.map": "/static/js/main.db2c8a56.js.map",
     "HomeView.b4b0f4ed.chunk.js.map": "/static/js/HomeView.b4b0f4ed.chunk.js.map",
     "RegisterView.6bacf03d.chunk.js.map": "/static/js/RegisterView.6bacf03d.chunk.js.map",
     "LoginView.5401642b.chunk.js.map": "/static/js/LoginView.5401642b.chunk.js.map",
-    "ContactsView.8f69c79b.chunk.js.map": "/static/js/ContactsView.8f69c79b.chunk.js.map",
+    "ContactsView.15983b5c.chunk.js.map": "/static/js/ContactsView.15983b5c.chunk.js.map",
     "331.cf2adc23.chunk.js.map": "/static/js/331.cf2adc23.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e598847d.css",
-    "static/js/main.5f4dfed6.js"
+    "static/js/main.db2c8a56.js"
   ]
 }
