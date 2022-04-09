@@ -41,7 +41,6 @@ export default function ContactForm() {
       toast.error(`${name} is already in contacts!`);
     } else {
       await createContact({ name, number });
-      console.log(name);
     }
     setName('');
     setNumber('');

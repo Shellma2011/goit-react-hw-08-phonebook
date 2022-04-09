@@ -13,7 +13,6 @@ export default function AppBarCopmonent() {
         maxWidth="xs"
         sx={{
           display: 'flex',
-          // direction: 'row-reverce',
           justifyContent: 'space-between',
         }}
       >
