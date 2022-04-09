@@ -13,7 +13,7 @@ export default function AppBarCopmonent() {
         maxWidth="xs"
         sx={{
           display: 'flex',
-          justifyContent: 'space-between',
+          justifyContent: 'center',
         }}
       >
         <Toolbar disableGutters={true}>
